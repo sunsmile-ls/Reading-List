@@ -216,7 +216,6 @@
 
 ## Flutter
 
-- [ ] (https://link.juejin.im?target=https%3A%2F%2Fjspang.com%2Fpost%2FFlutterShop.html%23toc-4c7)
 - [ ] [flutter中event_bus实现原理](https://link.juejin.im?target=https%3A%2F%2Fcloud.tencent.com%2Fdeveloper%2Farticle%2F1338289)
 - [ ] [Flutter 面试知识点集锦](https://juejin.im/post/5cd9875ae51d453d022cb662)
 
